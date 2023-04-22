@@ -7,7 +7,7 @@
 <ol>
 <li>clone git repo:- https://github.com/shubhamkr83/react-dropdown</li>
 <li>yarn</li>
-<li>yarn run dev</li>
+<li>yarn dev</li>
 </ol>
 
 <h3>Project Screenshot</h3>
