@@ -1,5 +1,5 @@
 # React Dropdown
-This is simple react dropdown website, where you can select any option.
+<h3>This is simple react dropdown website.</h3>
 
 <h3>Live Demo:- https://reactdropdown01.netlify.app</h3>
 
