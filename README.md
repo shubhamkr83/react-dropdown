@@ -1,8 +1,8 @@
 # React Dropdown
 <h3>This is simple react dropdown website.</h3>
 
-<h3>Live Demo:- https://reactdropdown01.netlify.app</h3>
-<h3>Project Video:- https://www.youtube.com/watch?v=JIDN5r_hXIE</h3>
+<h4>Live Demo:- https://reactdropdown01.netlify.app</h4>
+<h4>Project Video:- https://www.youtube.com/watch?v=JIDN5r_hXIE</h4>
 
 <h3>Run this Project</h3>
 <ol>
